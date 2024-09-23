@@ -18,12 +18,13 @@ Hi, I'm Axel Lönnby Wesselgren!
 
 ## 🛠️ Skills
 <!-- About Me -->
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming and Script Languages
 
 <p>
     <a href="https://github.com/axelwesselgren"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></a>
     <a href="https://github.com/axelwesselgren"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"></a>
     <a href="https://github.com/axelwesselgren"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logoColor=white"></a>
+    <a href="https://github.com/axelwesselgren"><img alt="Bash" src="https://img.shields.io/badge/Bash-512BD4?style=flat&logo=gnubash&logoColor=white"></a>
 
 ### 💻 Software and Tools
 
@@ -41,6 +42,25 @@ Hi, I'm Axel Lönnby Wesselgren!
     <a href="https://github.com/axelwesselgren"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34"></a>
     <a href="https://github.com/axelwesselgren"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"></a>
 </p>
+
+### 🏗️ Frameworks
+
+<p>
+	<a href="https://github.com/axelwesselgren"><img alt="Swing" src="https://img.shields.io/badge/Swing-ED8B00?style=flat&logo=openjdk&logoColor=white"></a>
+	<a href="https://github.com/axelwesselgren"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"></a>
+	<a href="https://github.com/axelwesselgren"><img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=flat&logo=.net&logoColor=white"></a>
+</p>
+
+
+### ⚙️ Operating Systems
+
+<p>
+	<a href="https://github.com/axelwesselgren"><img alt="Arch" src="https://img.shields.io/badge/Arch-1793D1?style=flat&logo=archlinux&logoColor=white"></a>
+	<a href="https://github.com/axelwesselgren"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></a>
+	<a href="https://github.com/axelwesselgren"><img alt="Ubuntu" src="https://img.shields.io/badge/Mint-86BE43?style=flat&logo=linuxmint&logoColor=white"></a>
+</p>
+
+### 
 
 ## 📊 Stats
 
