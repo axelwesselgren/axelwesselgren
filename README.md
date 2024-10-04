@@ -7,7 +7,7 @@ Hi, I'm Axel Lönnby Wesselgren!
 </h1>
 <h3 align="center">
   <a href="https://github.com/yourusername">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student+from+Stockholm,+Sweden;Always+learning+new+things&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=IT+Student+from+Stockholm,+Sweden&center=true&width=380&height=45">
   </a>
 </h3>
 
@@ -18,46 +18,43 @@ Hi, I'm Axel Lönnby Wesselgren!
 
 ## 🛠️ Skills
 <!-- About Me -->
-### 👨‍💻 Programming and Script Languages
+### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/axelwesselgren"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></a>
-    <a href="https://github.com/axelwesselgren"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"></a>
-    <a href="https://github.com/axelwesselgren"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logoColor=white"></a>
-    <a href="https://github.com/axelwesselgren"><img alt="Bash" src="https://img.shields.io/badge/Bash-512BD4?style=flat&logo=gnubash&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=cplusplus&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
+<a href="https://github.com/axelwesselgren"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logoColor=white"></a>
+</p> 
 
-### 💻 Software and Tools
+### 🌐 Web Development
 
 <p>
-    <a href="https://github.com/axelwesselgren"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/22626139/axel-l%c3%b6nnby-wesselgren"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/axelwesselgren"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"></a>
-    <a href="https://github.com/axelwesselgren"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white"></a>
-    <a href="https://leetcode.com/u/axelwesselgren/"><img alt="StackOverflow" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"></a>
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### ☁️ Cloud Hosting
+<p>
+<a href="https://github.com/axelwesselgren"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFA116?style=flat&logo=firebase&logoColor=ffcd34"></a>
+</p>
+
+### 🗄️ Databases
 
 <p>
-    <a href="https://github.com/axelwesselgren"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34"></a>
-    <a href="https://github.com/axelwesselgren"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"></a>
 </p>
 
 ### 🏗️ Frameworks
 
 <p>
-	<a href="https://github.com/axelwesselgren"><img alt="Swing" src="https://img.shields.io/badge/Swing-ED8B00?style=flat&logo=openjdk&logoColor=white"></a>
-	<a href="https://github.com/axelwesselgren"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"></a>
-	<a href="https://github.com/axelwesselgren"><img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=flat&logo=.net&logoColor=white"></a>
-</p>
-
-
-### ⚙️ Operating Systems
-
-<p>
-	<a href="https://github.com/axelwesselgren"><img alt="Arch" src="https://img.shields.io/badge/Arch-1793D1?style=flat&logo=archlinux&logoColor=white"></a>
-	<a href="https://github.com/axelwesselgren"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></a>
-	<a href="https://github.com/axelwesselgren"><img alt="Ubuntu" src="https://img.shields.io/badge/Mint-86BE43?style=flat&logo=linuxmint&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="Swing" src="https://img.shields.io/badge/Swing-ED8B00?style=flat&logo=openjdk&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=flat&logo=.net&logoColor=white"></a>
 </p>
 
 ### 
