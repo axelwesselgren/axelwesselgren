@@ -25,7 +25,6 @@ Hi, I'm Axel Lönnby Wesselgren!
 <a href="https://github.com/axelwesselgren"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"></a>
 <a href="https://github.com/axelwesselgren"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=cplusplus&logoColor=white"></a>
 <a href="https://github.com/axelwesselgren"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
-<a href="https://github.com/axelwesselgren"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logoColor=white"></a>
 </p> 
 
 ### 🌐 Web Development
@@ -46,7 +45,6 @@ Hi, I'm Axel Lönnby Wesselgren!
 <p>
 <a href="https://github.com/axelwesselgren"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white"></a>
 <a href="https://github.com/axelwesselgren"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
-<a href="https://github.com/axelwesselgren"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"></a>
 </p>
 
 ### 🏗️ Frameworks
@@ -54,7 +52,6 @@ Hi, I'm Axel Lönnby Wesselgren!
 <p>
 <a href="https://github.com/axelwesselgren"><img alt="Swing" src="https://img.shields.io/badge/Swing-ED8B00?style=flat&logo=openjdk&logoColor=white"></a>
 <a href="https://github.com/axelwesselgren"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"></a>
-<a href="https://github.com/axelwesselgren"><img alt="WPF" src="https://img.shields.io/badge/WPF-512BD4?style=flat&logo=.net&logoColor=white"></a>
 </p>
 
 ### 
