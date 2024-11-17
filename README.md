@@ -40,11 +40,14 @@ Hi, I'm Axel Lönnby Wesselgren!
 <a href="https://github.com/axelwesselgren"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFA116?style=flat&logo=firebase&logoColor=ffcd34"></a>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Servers
 
 <p>
 <a href="https://github.com/axelwesselgren"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white"></a>
 <a href="https://github.com/axelwesselgren"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="Node" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"></a>
+<a href="https://github.com/axelwesselgren"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=47A248"></a>
 </p>
 
 ### 🏗️ Frameworks
@@ -52,6 +55,7 @@ Hi, I'm Axel Lönnby Wesselgren!
 <p>
 <a href="https://github.com/axelwesselgren"><img alt="Swing" src="https://img.shields.io/badge/Swing-ED8B00?style=flat&logo=openjdk&logoColor=white"></a>
 <a href="https://github.com/axelwesselgren"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"></a>
+<a href="https://github.com/axelwesselgren"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
 ### 
