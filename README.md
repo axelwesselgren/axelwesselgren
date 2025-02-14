@@ -10,39 +10,6 @@ Hi, I'm Axel Lönnby Wesselgren!
   </a>
 </h3>
 
-## 🛠️ Skills
-
-### 👨‍💻 Languages
-
-<p>
-<a href="https://github.com/axelwesselgren"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></a>
-<a href="https://github.com/axelwesselgren"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"></a>
-<a href="https://github.com/axelwesselgren"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>
-</p> 
-
-### 🗄️ Databases
-
-<p>
-<a href="https://github.com/axelwesselgren"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white"></a>
-<a href="https://github.com/axelwesselgren"><img alt="Postgres" src="https://img.shields.io/badge/PG-4169E1.svg?logo=postgresql&logoColor=%2361DAFB"></a>
-</p>
-
-### 🏗️ Frameworks
-
-<p>
-<a href="https://github.com/axelwesselgren"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"></a>
-<a href="https://github.com/axelwesselgren"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-<a href="https://github.com/axelwesselgren"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"></a>
-</p>
-
-### 
-
-## 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=axelwesselgren&show_icons=true&theme=dark">|<img src="https://github-readme-streak-stats.herokuapp.com?user=axelwesselgren&theme=dark"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelwesselgren&langs_count=8&theme=dark" alt="axelwesselgren)"/>|
-
 ## 🚀 Projects
 <p>
   <a href="https://github.com/axelwesselgren/weatherApp">
@@ -61,4 +28,4 @@ Hi, I'm Axel Lönnby Wesselgren!
 
 [Axel Lönnby Wesselgren](https://github.com/axelwesselgren)
 
-Last Edited on: 01/02/2025
+Last Edited on: 14/02/2025
