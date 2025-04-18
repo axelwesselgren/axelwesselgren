@@ -15,6 +15,15 @@ Hi, I'm Axel Lönnby Wesselgren!
   <a href="https://github.com/axelwesselgren/weatherApp">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axelwesselgren&repo=weatherApp&theme=dark" />
   </a>
+  <a href="https://github.com/axelwesselgren/mrkoll.se-scraper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axelwesselgren&repo=mrkoll.se-scraper&theme=dark" />
+  </a>
+  <a href="https://github.com/axelwesselgren/stackster-public">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axelwesselgren&repo=stackster-public&theme=dark" />
+  </a>
+   <a href="https://github.com/axelwesselgren/toolvoyage-public">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axelwesselgren&repo=toolvoyage-public&theme=dark" />
+  </a>
 </p>
 
 ## 🌐 Socials
