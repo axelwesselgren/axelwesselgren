@@ -10,22 +10,6 @@ Hi, I'm Axel Lönnby Wesselgren!
   </a>
 </h3>
 
-## 🚀 Projects
-<p>
-  <a href="https://github.com/axelwesselgren/weatherApp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axelwesselgren&repo=weatherApp&theme=dark" />
-  </a>
-  <a href="https://github.com/axelwesselgren/mrkoll.se-scraper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axelwesselgren&repo=mrkoll.se-scraper&theme=dark" />
-  </a>
-  <a href="https://github.com/axelwesselgren/stackster-public">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axelwesselgren&repo=stackster-public&theme=dark" />
-  </a>
-   <a href="https://github.com/axelwesselgren/toolvoyage-public">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axelwesselgren&repo=toolvoyage-public&theme=dark" />
-  </a>
-</p>
-
 ## 🌐 Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/axel-l%C3%B6nnby-wesselgren-4486661b9/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
